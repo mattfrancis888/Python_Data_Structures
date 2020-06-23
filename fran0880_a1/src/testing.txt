@@ -1,0 +1,88 @@
+
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Matthew Francis
+ID:      180920880
+Email:   fran0880@mylaurier.ca
+Version: 2019-01-12
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+q1
+-------------------------------------------------------
+NP DJJBDLM PWDP HGPDLNH'M JHNGP JBEBB GDPNHGDE JDLC WDM EHMP NPM JHNGP. PWB MHQPWBLGFHMP 
+PNJ HR VDGDID NM NG PWB JDLC, GBDL PWB PHTG HR EBDFNGOPHG. PWBLB WDSB DETDXM ABBG MBSBLDE 
+WQGILBI FBPLBM HR MDGI ZQPPNGO HQP RLHF PWB FDNGEDGI. AQP JDLC HRRNVNDEM MDX LBVBGP WNOW 
+TNGIM WDSB TDMWBI DTDX PWB MDGI JHNGP DGI DEE PWDP LBFDNGM NM D JEDPRHLF. PWB JDLC DISBLPNMBM 
+NPMBER DM PWB MHQPWBLGFHMP PNJ HR VDGDID'M FDNGEDGI, DP PWB MDFB EDPNPQIB DM GHLPWBLG 
+VDENRHLGND, DGI DPPLDVPM FHLB PWDG 400,000 SNMNPHLM JBL XBDL. D JDLC HRRNVNDE MDXM D GH 
+MTNFFNGO MNOG PWDP QMBI PH FDLC PWB MHQPWBLGFHMP JHNGP TDMWBI QJ HG D ABDVW NG FDINMHG, HWNH, 
+DAHQP 100 CNEHFBPLBM DVLHMM EDCB BLNB. HRRNVNDEM MDX PWB MDGI JDPPBLGM DP PWB JHNGP VWDGOB 
+RLBKQBGPEX, AQP PWNM NM PWB RNLMP PNFB PWB JHNGP WDM INMDJJBDLBI VHFJEBPBEX.
+-------------------------------------------------------
+q2
+-------------------------------------------------------
+Enter n: 1
+JU BQQFBST UIBU POUBSJP'T QPJOU QFMFF OBUJPOBM QBSL IBT MPTU JUT QPJOU. UIF TPVUIFSONPTU 
+UJQ PG DBOBEB JT JO UIF QBSL, OFBS UIF UPXO PG MFBNJOHUPO. UIFSF IBWF BMXBZT CFFO TFWFSBM 
+IVOESFE NFUSFT PG TBOE KVUUJOH PVU GSPN UIF NBJOMBOE. CVU QBSL PGGJDJBMT TBZ SFDFOU IJHI 
+XJOET IBWF XBTIFE BXBZ UIF TBOE QPJOU BOE BMM UIBU SFNBJOT JT B QMBUGPSN. UIF QBSL BEWFSUJTFT 
+JUTFMG BT UIF TPVUIFSONPTU UJQ PG DBOBEB'T NBJOMBOE, BU UIF TBNF MBUJUVEF BT OPSUIFSO 
+DBMJGPSOJB, BOE BUUSBDUT NPSF UIBO 400,000 WJTJUPST QFS ZFBS. B QBSL PGGJDJBM TBZT B OP 
+TXJNNJOH TJHO UIBU VTFE UP NBSL UIF TPVUIFSONPTU QPJOU XBTIFE VQ PO B CFBDI JO NBEJTPO, PIJP, 
+BCPVU 100 LJMPNFUSFT BDSPTT MBLF FSJF. PGGJDJBMT TBZ UIF TBOE QBUUFSOT BU UIF QPJOU DIBOHF 
+GSFRVFOUMZ, CVU UIJT JT UIF GJSTU UJNF UIF QPJOU IBT EJTBQQFBSFE DPNQMFUFMZ.
+-------------------------------------------------------
+q3
+-------------------------------------------------------
+Enter word: A man, a plan, a canal, Panama!
+True
+Enter word: Otto
+True
+Enter word: David
+False
+Enter word: ''
+True
+-------------------------------------------------------
+q4
+-------------------------------------------------------
+Enter year: 1700
+False
+Enter year: 1800
+False
+Enter year: 1900
+False
+Enter year: 1600
+True
+Enter year: 2000
+True
+Enter year: 1996
+True
+Enter year: 2000
+True
+Enter year: 2004
+True
+Enter year: 1899
+False
+
+
+
+-------------------------------------------------------
+q5
+-------------------------------------------------------
+60
+
+-------------------------------------------------------
+q6
+-------------------------------------------------------
+[[0, 2, 4, 6, 8], [1, 3, 5, 7, 9]]
+-------------------------------------------------------
+q7
+-------------------------------------------------------
+[[10, 7, 4, 1], [11, 8, 5, 2], [12, 9, 6, 3]]
+-------------------------------------------------------
+q8
+-------------------------------------------------------
+[1, 2, 0, 4, 5, 3]

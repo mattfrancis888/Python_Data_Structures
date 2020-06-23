@@ -1,0 +1,20 @@
+t01:
+
+Unsorted: [99, 50, 2, 5, 880, 12, 15, 2]
+Sorted: [2, 2, 5, 12, 15, 50, 99, 880]
+
+t02:
+
+Unsorted: [99, 50, 2, 5, 880, 12, 15, 2]
+Sorted: [2, 2, 5, 12, 15, 50, 99, 880]
+
+t03:
+
+Gnome Sort is more efficient when compared to Insertion Sort and Selection Sort at their worst cases. 
+Unsorted: [99, 50, 2, 5, 880, 12, 15, 2]
+Sorted: [2, 2, 5, 12, 15, 50, 99, 880]
+
+t04:
+
+Unsorted: [99, 50, 2, 5, 880, 12, 15, 2]
+Sorted: [2, 2, 5, 12, 15, 50, 99, 880]
